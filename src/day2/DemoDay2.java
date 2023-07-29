@@ -11,4 +11,8 @@ public static void main(String[] args) {
 	public static void subtract(int a,int b) {
 		System.out.println(b-b);
 	}
+		public static void add(int a,int b,int c) {
+		System.out.println(a+b+c);
+	
+}
 }
