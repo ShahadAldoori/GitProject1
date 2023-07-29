@@ -15,4 +15,8 @@ public static void main(String[] args) {
 		System.out.println(a+b+c);
 	
 }
+			public static void add(double a,double b) {
+		System.out.println(a+b);
+	
+}
 }
